@@ -1,0 +1,9 @@
+.list {
+    width: 100%;
+    max-width: 550px;
+    height: auto;
+
+    &__unordened {
+        list-style: none;
+    }
+}
